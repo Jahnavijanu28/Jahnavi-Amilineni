@@ -103,8 +103,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 ![Jahnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahnavijanu28&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavijanu28&layout=compact&theme=radical)
