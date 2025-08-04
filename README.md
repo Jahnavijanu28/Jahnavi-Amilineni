@@ -103,11 +103,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="![Jahnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahnavi-amilineni&show_icons=true&theme=default)" />
-  <br />
-  <img src="![Jahnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahnavi-amilineni&show_icons=true&theme=default)"/>
-</p>
+### 📊 GitHub Stats
+
+![Jahnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahnavijanu28&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavijanu28&layout=compact&theme=radical)
 
 ---
 
