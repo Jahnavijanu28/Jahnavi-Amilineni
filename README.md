@@ -2,7 +2,7 @@
 
 Software Engineer | Full Stack Developer | Cloud & AI Enthusiast
 
-Welcome to my GitHub! I’m a passionate Software Engineer with over 3+ years of experience designing and building **secure, scalable applications** in the **banking** and **healthcare** sectors. I’ve worked with global banks like **HSBC, CIBC**, and **UOB**, and contributed to AI-driven research projects as a graduate student at **Saint Louis University**.
+Welcome to my GitHub! I’m a passionate Software Engineer with over 3+ years of experience designing and building **secure, scalable applications** in the **banking**, **E-commerce** and **healthcare** sectors. I’ve worked with global banks like **HSBC, CIBC**, and **UOB**, and contributed to AI-driven research projects as a graduate student at **Saint Louis University**.
 
 ---
 
