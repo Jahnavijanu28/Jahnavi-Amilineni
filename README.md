@@ -35,7 +35,7 @@ Welcome to my GitHub! I’m a passionate Software Engineer with over 3+ years of
 Built a secure, full-stack platform for Mango Medical Group to streamline patient-provider messaging. Integrated AI to prioritize urgent messages, reduced delivery time by 35%, and automated ETL pipelines with Airflow.
 
 ### 💳 Secure Banking Microservices (Client: HSBC, CIBC, UOB)  
-*Java • Spring Boot • React • Azure Gateway • Docker/Kubernetes*  
+*Java, python,• Spring Boot • Javascript, React • Azure Gateway • Docker/Kubernetes*  
 Developed robust, real-time financial systems for global banks. Implemented scalable microservices, optimized REST APIs, and maintained 99.95% message delivery using Kafka and ActiveMQ.
 
 ### 🎯 Smart Parking Crime Detection (Published Research)  
