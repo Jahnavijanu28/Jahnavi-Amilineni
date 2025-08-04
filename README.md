@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Amilineni</h1>
+📫 How to reach me pandeyshivani9953@gmail.com ⚡ Fun fact: I qualified for Nationals in Chess Tournament from Oman
 <h3 align="center">Software Engineer | Full Stack Developer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
