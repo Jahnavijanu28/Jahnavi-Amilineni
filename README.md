@@ -104,7 +104,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahnavi-amilineni&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahnavi-amilineni&cache_seconds=86400" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi-amilineni&layout=compact" />
 </p>
